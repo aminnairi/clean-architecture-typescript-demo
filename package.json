@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "web": "vite",
+    "console": "ts-node --project ./tsconfig.console.json ./sources/infrastructure/console/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.8",
+    "typescript": "4.5.4",
+    "vite": "2.7.10",
+    "vite-plugin-tsc": "0.1.1"
+  },
+  "dependencies": {
+    "ts-node": "10.4.0"
+  }
+}
