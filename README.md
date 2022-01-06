@@ -1,4 +1,4 @@
-# clean-architecture-weblab
+# clean-architecture-typescript-demo
 
 Clean Architecture implementation using TypeScript.
 
